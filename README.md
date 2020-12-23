@@ -8,4 +8,4 @@
   <ol>5. 16 unit tests and 5 functional test </ol>  
 </li>
 <br> To test the app: https://measuremental.glitch.me/</br>
-<br> To see the code work: https://glitch.com/edit/#!/measurement-convert</br>
+<br> To see the code work: https://glitch.com/edit/#!/measuremental</br>
